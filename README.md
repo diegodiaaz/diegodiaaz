@@ -12,20 +12,20 @@
 
 ##
 
+## My Contacts:
+ 
 <div>
   <a href = "mailto:diego.reis.ruiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-henrique-60b688209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
 
-
-<!--
-Not Working
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&title_color=a480ff&icon_color=a480ff&text_color=ffffff&bg_color=20232a"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&title_color=a480ff&text_color=ffffff&bg_color=20232a&layout=compact"/>
 </div>
-!-->
+
 
 <br>
 
