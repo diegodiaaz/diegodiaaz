@@ -20,11 +20,12 @@
 </div>
 
 ##
-
+<!-- Not Working
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&title_color=a480ff&icon_color=a480ff&text_color=ffffff&bg_color=20232a"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&title_color=a480ff&text_color=ffffff&bg_color=20232a&layout=compact"/>
 </div>
+-->
 
 
 <br>
