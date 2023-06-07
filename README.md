@@ -33,11 +33,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&title_color=a480ff&icon_color=a480ff&text_color=ffffff&bg_color=20232a"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&title_color=a480ff&text_color=ffffff&bg_color=20232a&layout=compact"/>
 </div>
+
 -->
 
-
 <br>
-
+<!-- Not Working
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegodiaaz&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
+-->
