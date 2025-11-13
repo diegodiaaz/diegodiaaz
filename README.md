@@ -21,10 +21,10 @@
 
 ##
 
-
+<!--
 <div>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
+-->
   <img  height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
@@ -38,7 +38,7 @@
 
 
 <br>
-
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegodiaaz&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
