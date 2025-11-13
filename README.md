@@ -4,9 +4,9 @@
 
 <br><br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=a480ff&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=a480ff&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=a480ff&labelColor=0D1117)&nbsp;
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 <br>
 
@@ -36,9 +36,9 @@
 </div>
 
 -->
-<!--
+
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegodiaaz&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
