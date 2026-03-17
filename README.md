@@ -24,7 +24,8 @@
 </p>
 
 ---
- 
+## 🧠 About Me
+
 Computer Science student and developer based in São Paulo, Brazil. I started my tech journey in cybersecurity at Tokio Marine, where I worked with DLP, vulnerability management and firewall analysis — and somewhere along the way I got hooked on software development.
  
 Currently working as a freelance developer building AI-powered automation solutions, from the initial sales call to the final delivery. I focus on backend development, database modeling and real-time dashboards.
