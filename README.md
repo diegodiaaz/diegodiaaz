@@ -61,7 +61,5 @@ I enjoy going beyond what's required — whether it's extending a course project
 
 ---
 
-<p align="center">
-  <img width="41%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
