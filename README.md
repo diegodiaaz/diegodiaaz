@@ -1,44 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=header"/>
+<h1 align="center">
+  Hello, I'm Diego Diaz!👋
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a480ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Diego+Henrique+;I'm+20+Years+Old;I+Love+Fullstack+Development;Be+Welcome+To+Browse+Here!)](https://git.io/typing-svg)
+<p align="center">
+  <em>Computer Science • Tech Enthusiast</em>
+</p>
 
-<br><br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,mysql,postgres,linux,aws,docker" />
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github.com/diegodiaaz/diegodiaaz/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
-##
+---
 
-## My Contacts:
+<p align="center">
+  I'm passionate about technology, education, and creativity.  
+  Here you’ll find projects, and my experiments with Java, C and more!
+</p>
+
+---
  
-<div>
-  <a href = "mailto:diego.reis.ruiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-henrique-60b688209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Computer Science student and developer based in São Paulo, Brazil. I started my tech journey in cybersecurity at Tokio Marine, where I worked with DLP, vulnerability management and firewall analysis — and somewhere along the way I got hooked on software development.
+ 
+Currently working as a freelance developer building AI-powered automation solutions, from the initial sales call to the final delivery. I focus on backend development, database modeling and real-time dashboards.
+ 
+I enjoy going beyond what's required — whether it's extending a course project with extra design patterns or optimizing an algorithm and building a visualization layer on top of it.
+ 
 
-##
+---
+ 
+## 📚 Education
+ 
+- 🎓 **B.Sc. Computer Science** — UNIP *(2024 – 2027)*
+- 📜 **Sementes do Brasil Tech** — FIAP + Tokio Marine *(2023)*
+- 📜 **Systems Analysis & Development (Technical)** — ETEC *(2022)*
+ 
+---
 
-<!--
-<div>
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
--->
-  <img  height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&layout=compact&langs_count=7&theme=midnight-purple"/>
+## 📨 Contacts
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diegodiaaz/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+ <!-- Working on it
+  <a href="https://diegodiaaz.dev.br/">
+    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+ -->
+  <a href="mailto:diego.reis.ruiz@gmail.com">
+    <img src="https://img.shields.io/badge/-diego.reis.ruiz@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
+---
 
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&title_color=a480ff&icon_color=a480ff&text_color=ffffff&bg_color=20232a"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&title_color=a480ff&text_color=ffffff&bg_color=20232a&layout=compact"/>
-</div>
-
-
-
-<br>
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegodiaaz&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
+<p align="center">
+  <img width="41%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiaaz&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=diegodiaaz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
