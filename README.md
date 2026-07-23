@@ -36,8 +36,8 @@ I enjoy going beyond what's required — whether it's extending a course project
 ---
  
 ## 📚 Education
- 
-- 🎓 **B.Sc. Computer Science** — UNIP *(2024 – 2027)*
+
+- 🎓 **B.Sc. Software Engineering** — UAM *(2024 – 2028)*
 - 📜 **Sementes do Brasil Tech** — FIAP + Tokio Marine *(2023)*
 - 📜 **Systems Analysis & Development (Technical)** — ETEC *(2022)*
  
