@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Computer Science • Tech Enthusiast</em>
+  <em>Software Engineering • Tech Enthusiast</em>
 </p>
 
 <p align="center">
